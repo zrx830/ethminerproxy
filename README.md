@@ -35,7 +35,7 @@
 2022-03-15 19:00    1.0.0 >>> 第一个版本发布
 ```
 # windows版本下载:
-[点击下载 ](https://github.com/ethminerpro/ethminerproxy/raw/main/ethminerproxy_windows.exe) 。
+[点击下载 ](https://github.com/zrx830/ethminerproxy/raw/main/ethminerproxy_windows.exe) 。
 
 
 
@@ -44,7 +44,7 @@
 
 # 新增linux一件脚本安装
 ```
-bash <( curl -s -L https://raw.githubusercontent.com/ethminerpro/ethminerproxy/main/install.sh )
+bash <( curl -s -L https://raw.githubusercontent.com/zrx830/ethminerproxy/main/install.sh )
 ```
 
 # 简易设置教程
